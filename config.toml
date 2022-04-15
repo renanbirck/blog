@@ -1,4 +1,39 @@
-baseURL = "http://example.org/"
+baseURL = "https://renanbirck.rocks/"
 languageCode = "en-us"
 title = "Tópicos Avançados em Temas Aleatórios"
-theme = "newsroom"
+theme = "hugo-swift-theme"
+author = "Renan Birck Pinheiro"
+copyright = "Copyright © 2022- Renan Birck Pinheiro. Todos os direitos reservados."
+paginate = 4
+
+
+[params]
+  [params.designer]
+    name = "Renan Birck Pinheiro"
+    url = "https://www.linkedin.com/in/renanbirck/"
+  [[params.authors]]
+    name = "renan" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    fullName = "Renan Birck Pinheiro" # optional. If set, it will display on author card
+    bio = "Apenas mais alguém tentando criar um canto nessa tal de internet."
+    photo = "myPhotoFile.jpg"
+    url = "https://renanbirck.rocks/"
+    twitter = "@birckrenan"
+
+
+[menu]
+  [[menu.main]]
+    name = "Sobre"
+    url = "about/"
+    weight = 2
+  [[menu.main]]
+    name = "Development"
+    url = "categories/development/"
+    weight = 3
+  [[menu.main]]
+    name = "Golang"
+    url = "categories/golang/"
+    weight = 4
+  [[menu.main]]
+    name = "Go"
+    url = "tags/go/"
+    weight = 5
