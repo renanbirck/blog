@@ -26,14 +26,10 @@ paginate = 4
     url = "about/"
     weight = 2
   [[menu.main]]
-    name = "Development"
-    url = "categories/development/"
+    name = "Categorias"
+    url = "categories/"
     weight = 3
   [[menu.main]]
-    name = "Golang"
-    url = "categories/golang/"
+    name = "Fale comigo..."
+    url = "contact/"
     weight = 4
-  [[menu.main]]
-    name = "Go"
-    url = "tags/go/"
-    weight = 5
