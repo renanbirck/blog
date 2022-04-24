@@ -50,4 +50,4 @@ NEXT
 
 ### Eu sou uma imagem
 
-{{< figure src="/images/sardine.jpg" >}}
+{{< figure src="/images/sardine.jpg" title="School of Fish" attr="Clint Bustrillos/Unsplash" attrlink="https://unsplash.com/@clintbustrillos" >}}
