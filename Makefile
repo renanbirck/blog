@@ -16,6 +16,10 @@ build-blog:
 	echo "Iniciando a compilação do blog."
 	$(HUGO)  
 
+# Rodar o blog localmente
+try-blog:
+	$(HUGO) server
+
 # Fazer o deploy do blog
 deploy-blog: build-blog
 	echo $(target_server)

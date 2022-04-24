@@ -15,7 +15,7 @@ Olá mundo!
 
 ## Eu sou um texto longo
 
-> Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.
+> Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte _CONSTITUIÇÃO DA REPÚBLICA FEDE**RATIVA** DO BRASIL_.
 
 ## Eu sou um código com destaque
 
@@ -35,3 +35,19 @@ int main() {
     float b = 0.05;
 }
 {{< / highlight >}}
+
+### em BASIC
+
+{{< highlight basic >}}
+FOR I = 1 TO 20
+PRINT I 
+NEXT
+{{< / highlight >}}
+
+### Eu sou um vídeo
+
+{{< youtube aQFeVn5k8e0 >}}
+
+### Eu sou uma imagem
+
+{{< figure src="/images/sardine.jpg" >}}

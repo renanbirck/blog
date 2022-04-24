@@ -1,5 +1,5 @@
 ---
-title: "Um pouquinho sobre..."
+title: "Um pouquinho sobre mim"
 ---
 
-Eu cometo esse blog.
+Sou péssimo com descrições e autobiografias. Eu cometo esse blog.
