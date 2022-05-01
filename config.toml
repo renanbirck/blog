@@ -1,48 +1,28 @@
 baseURL = "https://renanbirck.rocks/"
 languageCode = "en-us"
 title = "Tópicos Avançados em Temas Aleatórios"
-theme = "newsroom"
+theme = "hugo-casper3"
 author = "Renan Birck Pinheiro"
 copyright = "Copyright © 2022- Renan Birck Pinheiro. Todos os direitos reservados."
 paginate = 4
 
-[markup]
-  [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = true # preciso para embutir HTML bruto
-    xhtml = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
-    tabWidth = 2
-
 [params]
-  [params.designer]
-    name = "Renan Birck Pinheiro"
-    url = "https://www.linkedin.com/in/renanbirck/"
-  [[params.authors]]
-    name = "renan" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
-    fullName = "Renan Birck Pinheiro" # optional. If set, it will display on author card
-    bio = "Apenas mais alguém tentando criar um canto nessa tal de internet."
-    photo = "myPhotoFile.jpg"
-    url = "https://renanbirck.rocks/"
-    twitter = "@birckrenan"
+    facebook = "https://facebook.com/renanbirck"
+    twitter = "https://twitter.com/birckrenan"
+    github = "https://github.com/renanbirck"
+    description = "Apenas mais um cantinho nessa tal de internet."
 
 [menu]
-  [[menu.main]]
+    [[menu.main]]
+    identifier = "sobre"
     name = "Sobre"
-    url = "about/"
-    weight = 2
-  [[menu.main]]
-    name = "Categorias"
-    url = "categories/"
-    weight = 3
-  [[menu.main]]
-    name = "Fale comigo..."
-    url = "contact/"
-    weight = 4
+    url = "/about/"
+
+    [[menu.main]]
+    identifier = "tags"
+    name = "Assuntos"
+    url = "/tags/"
+
+[taxonomies]
+category = "categories"
+tag = "tags"

@@ -3,7 +3,7 @@ title: "Como eu blogo?"
 tags: ["hugo", "blog"]
 date: 2022-04-14T21:58:22-03:00
 draft: false
-author: "eu mesmo"
+author: "Renan Birck Pinheiro"
 image: "under_construction.jpg"
 ---
 
