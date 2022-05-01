@@ -4,7 +4,7 @@ tags: ["hugo", "blog"]
 date: 2022-04-14T21:58:22-03:00
 draft: false
 author: "Renan Birck Pinheiro"
-image: "under_construction.jpg"
+feature_image: "/images/typewriter.jpg"
 ---
 
 Como eu blogo?
@@ -18,3 +18,6 @@ Um projeto futuro, para um dia chuvoso, é automatizar o processo de enviar as p
 * O velho e bom `Makefile`.
 * Um shell script.
 * Alguma ferramenta de devops.
+
+Foto por [Daria Kraplak](https://unsplash.com/@daria_kraplak)/[Unsplash](https://unsplash.com/s/photos/typewriter)
+  
