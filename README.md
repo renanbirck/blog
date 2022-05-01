@@ -2,7 +2,7 @@
 
 ### Procedimentos
 1. instalar o hugo
-2. O tema que eu uso é o [newsroom](https://github.com/onweru/newsroom), então você precisa configurá-lo como um _submódulo_ seguindo as instruções dele.
+2. O tema que eu uso é o [casper3](https://github.com/jonathanjanssens/hugo-casper3/), então você precisa configurá-lo como um _submódulo_ seguindo as instruções dele. Podemos abstrair isso simplesmente clonando o repositório embaixo de `themes`.
 
 ### Deploy
 1. ter o apache instalado no servidor
