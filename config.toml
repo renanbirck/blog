@@ -6,6 +6,20 @@ author = "Renan Birck Pinheiro"
 copyright = "Copyright © 2022- Renan Birck Pinheiro. Todos os direitos reservados."
 paginate = 4
 
+[markup]
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true # preciso para embutir HTML bruto
+    xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2
 
 [params]
   [params.designer]
@@ -18,7 +32,6 @@ paginate = 4
     photo = "myPhotoFile.jpg"
     url = "https://renanbirck.rocks/"
     twitter = "@birckrenan"
-
 
 [menu]
   [[menu.main]]
