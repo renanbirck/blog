@@ -1,7 +1,7 @@
 baseURL = "https://renanbirck.rocks/"
 languageCode = "en-us"
 title = "Tópicos Avançados em Temas Aleatórios"
-theme = "hugo-swift-theme"
+theme = "newsroom"
 author = "Renan Birck Pinheiro"
 copyright = "Copyright © 2022- Renan Birck Pinheiro. Todos os direitos reservados."
 paginate = 4
