@@ -1,0 +1,16 @@
+{{ define "main"}}
+    <main id="main">
+       <style>
+           .container {
+                width: 50%;
+                margin: 0 auto;
+            }
+
+       </style>
+        <div class="container">
+        <h1>Oh Não!</h1>
+        <p>Você chegou a um lugar que não existe.</p>
+            Mas fique calmo e clique para <a href="{{ "/" | relURL }}">voltar</a>.
+      </div>
+    </main>
+{{ end }}
