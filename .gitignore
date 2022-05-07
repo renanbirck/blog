@@ -3,3 +3,7 @@
 .hugo_build.lock
 public
 resources
+
+# mas precisamos do .htaccess, para definir a página 404.
+!public/.htaccess
+!*/
