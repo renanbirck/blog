@@ -6,8 +6,8 @@
 
 ### Deploy
 1. ter o apache instalado no servidor
-2. editar o `Makefile`.
+2. editar o `Makefile` para ajustar como se dá o _deploy_.
 
 ### TODO
-1. escrever um makefile (sim, sou velho, tá?) para essa bagaça
-2. dockerizar o apache
+1. automatizar o deploy usando ex. github actions
+2. dockerizar o Apache
