@@ -10,6 +10,8 @@ target_username := renan
 # Utilitários
 RSYNC = rsync
 HUGO = hugo 
+OPTIPNG = optipng
+FIND = find
 
 # Gerar o blog mais atualizado
 build-blog:
@@ -19,6 +21,11 @@ build-blog:
 # Rodar o blog localmente
 try-blog:
 	$(HUGO) server
+
+# Otimizar os PNG do blog
+optimize-images:
+	$(FIND) static/images -iname *.png -exec $(OPTIPNG) {} \;
+	
 
 # Fazer o deploy do blog
 deploy-blog: build-blog
