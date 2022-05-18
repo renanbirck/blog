@@ -5,5 +5,7 @@ public
 resources
 
 # mas precisamos do .htaccess, para definir a página 404.
+# e do robots.txt
 !public/.htaccess
+!public/robots.txt
 !*/
