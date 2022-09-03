@@ -4,19 +4,19 @@
 
 # Configurações para o upload do conteúdo:
 target_server := renanbirck.rocks
-target_directory := /var/www
+target_directory := /var/www/blog
 target_username := renan
 
 # Utilitários
 RSYNC = rsync
-HUGO = hugo 
+HUGO = hugo
 OPTIPNG = optipng
 FIND = find
 
 # Gerar o blog mais atualizado
 build-blog:
 	echo "Iniciando a compilação do blog."
-	$(HUGO)  
+	$(HUGO)
 
 # Rodar o blog localmente
 try-blog:
@@ -25,7 +25,6 @@ try-blog:
 # Otimizar os PNG do blog
 optimize-images:
 	$(FIND) static/images -iname *.png -exec $(OPTIPNG) {} \;
-	
 
 # Fazer o deploy do blog
 deploy-blog: build-blog
