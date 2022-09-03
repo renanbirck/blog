@@ -7,7 +7,7 @@ tags: ["emulação","retrocomputação","sun","unix"]
 feature_image: "/images/sun-ultra-20.jpg"
 ---
 
-Por mais que eu gostaria de ter uma coleção de máquinas antigas em casa, sendo máquinas UNIX minha preferência, infelizmente isso não é viável por diversos motivos:
+Sendo usuário de Linux, sou naturalmente curioso por conhecer os sistemas da família UNIX que em glaciais eras eram utilizados. Por mais que eu gostaria de ter uma coleção de máquinas antigas em casa, sendo máquinas UNIX minha preferência, infelizmente isso não é viável por diversos motivos:
 
 * Dificuldade/impossibilidade de obtê-las, ainda mais no Brasil (eBay está fora de cogitação, com o dólar alto e os impostos de importação).
 * Hardware antigo, de difícil manutenção e obtenção de peças.
@@ -23,8 +23,10 @@ Se tudo der certo, o QEMU irá iniciar e você será presenteado com uma tela pa
 
 {{< figure src="/images/emulando-sun/sun_welcome.png" title="Identifique-se" >}} 
 
-e, depois de _logar_, você verá algo parecido com isso:
+e, depois de _logar_, você verá algo parecido com isso, o CDE (Common Desktop Environment):
 
 {{< figure src="/images/emulando-sun/sun_cde.png" title="Bem, não ganhamos nenhum concurso de beleza" >}} 
+
+E o que podemos fazer com um sistema desses? Infelizmente, não muita coisa. Conseguir _software_ para ele é complicado, requerindo cavocar no Internet Archive e no [WinWorld](https://winworldpc.com/library/applications/platform-unix).
 
 Créditos da imagem que abre o post: [Jiri Brozovsky/Flickr](https://www.flickr.com/photos/7958754@N03/8548566512), licenciada sob Creative Commons. 
