@@ -19,3 +19,4 @@ Este repositório contém o código-fonte (configurações do Hugo, textos e ima
 ### TODO
 1. automatizar o deploy usando ex. github actions
 2. dockerizar o Apache
+3. explorar mais temas
