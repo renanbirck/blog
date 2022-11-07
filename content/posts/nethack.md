@@ -3,7 +3,7 @@ title: "NetHack, matando gnomos e duendes no modo texto"
 date: 2022-11-06T20:12:36-03:00
 draft: false
 author: "Renan Birck Pinheiro"
-tags: ["roguelike"]
+tags: ["roguelike", "jogos"]
 feature_image: "/images/gnomos.jpg"
 ---
 
@@ -12,7 +12,7 @@ feature_image: "/images/gnomos.jpg"
 > Gnomos não brotam do chão 
 > ~ [Tihuana - Eu Vi Gnomos](https://www.youtube.com/watch?v=CTYA1DoC7iY)
 
-No ano de 2020, vendo-me obrigado a ficar mais tempo em casa, (re)descobri o NetHack e dediquei boa parte do meu tempo livre a ele. Não, ele não tem nada de _hack_: você não vai hackear sistemas e roubar dinheiro com ele. Ele, sim, é um jogo com longa história (praticamente uma testemunha da evolução dos sistemas operacionais, visto que um dia ele rodou em quase qualquer coisa que rodasse UNIX), estando em desenvolvimento desde 1987 e, sendo código aberto, recebendo contribuições da comunidade.
+No ano de 2020, vendo-me obrigado a ficar mais tempo em casa, (re)descobri o [NetHack](https://nethack.org) e dediquei boa parte do meu tempo livre a ele. Não, ele não tem nada de _hack_: você não vai hackear sistemas e roubar dinheiro com ele. Ele, sim, é um jogo com longa história (praticamente uma testemunha da evolução dos sistemas operacionais, visto que um dia ele rodou em quase qualquer coisa que rodasse UNIX), estando em desenvolvimento desde 1987 e, sendo código aberto, recebendo contribuições da comunidade.
 
 Se você joga algum _roguelike_ (e, pelo amor da sua divindade preferida, não é _rougelike_, a menos que você esteja se referindo a jogos onde você imita [as Rouge](https://pt.wikipedia.org/wiki/Rouge)), ele bebeu da fonte do NetHack: morte permanente e níveis gerados proceduralmente estão aqui.
 
