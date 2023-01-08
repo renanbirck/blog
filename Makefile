@@ -9,9 +9,11 @@ target_username := renan
 
 # Utilitários
 RSYNC = rsync
-HUGO = hugo
-OPTIPNG = optipng
+HUGO := $(shell command -v hugo 2> /dev/null)
+#OPTIPNG = optipng
+OPTIPNG := $(shell command -v optipng 2> /dev/null)
 FIND = find
+
 
 # Gerar o blog mais atualizado
 build-blog:
