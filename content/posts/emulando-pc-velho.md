@@ -7,7 +7,7 @@ tags: ["retro-pc", "emulação"]
 feature_image: "/images/old-computer.jpg"
 ---
 
-> Porque velho é o seu PC. -- [Retrópolis](https://www.retrocomputaria.com.br/)
+> Porque velho é o seu PC. -- [Retrópolis](https://www.retropolis.com.br/)
 
 Outro dia, num grupo de retrocomputação onde participo, surgiu a discussão de como rodar jogos velhos, que não funcionam nos _Windows_ mais novos.
 
