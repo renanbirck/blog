@@ -1,6 +1,6 @@
 ---
 title: "Um pouquinho sobre mim"
-date: 2022-04-30T22:02:00-03:00
+date: 2023-10-07T22:02:00-03:00
 ---
 
 Sou péssimo com descrições e autobiografias, mas vamos lá.
@@ -14,6 +14,5 @@ O layout do blog é bastante simples, pois:
 
 Outras formas de contato:
 
-* [twitter](https://twitter.com/birckrenan)
 * [facebook](https://facebook.com/renanbirck)
 * o velho e infalível [e-mail](mailto:renan.birck.pinheiro@gmail.com)
