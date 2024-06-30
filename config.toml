@@ -10,6 +10,7 @@ paginate = 4
     facebook = "https://facebook.com/renanbirck"
     twitter = "https://twitter.com/birckrenan"
     github = "https://github.com/renanbirck"
+    rss = "https://renanbirck.rocks/posts/index.xml" 
     description = "Apenas mais um cantinho nessa tal de internet."
 
 [outputs]
@@ -28,6 +29,11 @@ paginate = 4
     identifier = "tags"
     name = "Assuntos"
     url = "/tags/"
+
+  [[menu.main]]
+    identifier = "rss"
+    name = "Assine!"
+    url = "/posts/index.xml"
 
 [taxonomies]
 category = "categories"
