@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Tópicos Avançados em Temas Aleatórios"
 theme = "hugo-casper3"
 author = "Renan Birck Pinheiro"
-copyright = "Copyright © 2022- Renan Birck Pinheiro. Todos os direitos reservados."
+copyright = "Copyright © 2022- Renan Birck Pinheiro. Alguns direitos reservados."
 paginate = 4
 
 [params]
@@ -11,6 +11,12 @@ paginate = 4
     twitter = "https://twitter.com/birckrenan"
     github = "https://github.com/renanbirck"
     description = "Apenas mais um cantinho nessa tal de internet."
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
 
 [menu]
     [[menu.main]]
