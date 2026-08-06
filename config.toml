@@ -1,9 +1,8 @@
 baseURL = "https://renanbirck.rocks/"
-languageCode = "en-us"
 title = "Tópicos Avançados em Temas Aleatórios"
 theme = "hugo-casper3"
 author = "Renan Birck Pinheiro"
-copyright = "Copyright © 2022- Renan Birck Pinheiro. Alguns direitos reservados."
+copyright = "Copyright © 2022-2026 Renan Birck Pinheiro. Alguns direitos reservados."
 paginate = 4
 
 [params]
