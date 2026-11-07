@@ -4,7 +4,9 @@ tags: ["ti", "setor-publico", "informatica", "software-livre"]
 date: 2024-06-29T19:00:00-03:00
 draft: false
 author: "Renan Birck Pinheiro"
-image: "/images/ti-publica.jpg"
+cover:
+    image: "/images/ti-publica.jpg"
+    alt: "Pessoas discutindo em uma reunião"
 ---
 
 Gostaria de fazer algumas observações sobre aquilo que entendo como problemático na TI nos órgãos públicos (dos três Poderes em todas as esferas) - usando 'órgão' no sentido amplo da palavra e excluindo as empresas estatais, que, por terem orçamento próprio, [seguem regras distintas](https://www2.camara.leg.br/orcamento-da-uniao/estudos/2018/copy_of_ARegradeOuroeoOramentodeInvestimentos.pdf).
@@ -27,5 +29,5 @@ Embora eu entenda que algumas coisas hoje precisem ir para a nuvem pública (nã
 
 Tudo isso precisa ser discutido de forma pragmática, procurando o bem público e não - como eu via no antigo movimento de software livre - com vontade de abraçar o mundo e querer ser o herói da revolução.
 
-Foto: [Desola Lanre-Ologun](https://unsplash.com/pt-br/@disruptxn)/[Unsplash](https://unsplash.com/pt-br/fotografias/homem-usando-computador-portatil-preto-kwzWjTnDPLk)
+Foto: [Campaign Creators](https://unsplash.com/pt-br/@campaign_creators)/[Unsplash](https://unsplash.com/pt-br/fotografias/man-standing-in-front-of-people-sitting-beside-table-with-laptop-computers-gMsnXqILjp4)
   
