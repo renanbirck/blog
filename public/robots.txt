@@ -1,7 +1,8 @@
-User-agent: Googlebot
-Disallow: /404.html
-
 User-agent: *
 Allow: /
+Sitemap: https://example.org/sitemap.xml
 
-Sitemap: https://renanbirck.rocks/sitemap.xml
+# Prevent duplicate content indexing
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /search/ 

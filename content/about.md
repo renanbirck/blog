@@ -1,6 +1,6 @@
 ---
 title: "Um pouquinho sobre mim"
-date: 2023-10-07T22:02:00-03:00
+date: 2021-10-07T22:02:00-03:00
 ---
 
 Sou péssimo com descrições e autobiografias, mas vamos lá.

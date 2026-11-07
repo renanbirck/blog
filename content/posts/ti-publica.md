@@ -4,7 +4,7 @@ tags: ["ti", "setor-publico", "informatica", "software-livre"]
 date: 2024-06-29T19:00:00-03:00
 draft: false
 author: "Renan Birck Pinheiro"
-feature_image: "/images/ti-publica.jpg"
+image: "/images/ti-publica.jpg"
 ---
 
 Gostaria de fazer algumas observações sobre aquilo que entendo como problemático na TI nos órgãos públicos (dos três Poderes em todas as esferas) - usando 'órgão' no sentido amplo da palavra e excluindo as empresas estatais, que, por terem orçamento próprio, [seguem regras distintas](https://www2.camara.leg.br/orcamento-da-uniao/estudos/2018/copy_of_ARegradeOuroeoOramentodeInvestimentos.pdf).

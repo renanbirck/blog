@@ -10,3 +10,27 @@
 [submodule "themes/swiss-operator"]
 	path = themes/swiss-operator
 	url = https://github.com/carlosplanchon/hugo-theme-swiss-operator
+[submodule "themes/arberia"]
+	path = themes/arberia
+	url = https://github.com/antedoro/arberia.git
+[submodule "themes/themes/kong-htop"]
+	path = themes/themes/kong-htop
+	url = https://github.com/yezihack/kong-htop.git
+[submodule "themes/kong-htop"]
+	path = themes/kong-htop
+	url = https://github.com/yezihack/kong-htop.git
+[submodule "themes/DoIt"]
+	path = themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/hugo-news"]
+	path = themes/hugo-news
+	url = https://github.com/professionalaf/hugo-news
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

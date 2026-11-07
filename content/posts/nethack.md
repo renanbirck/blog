@@ -4,7 +4,7 @@ date: 2022-11-06T20:12:36-03:00
 draft: false
 author: "Renan Birck Pinheiro"
 tags: ["roguelike", "jogos"]
-feature_image: "/images/gnomos.jpg"
+image: "/images/gnomos.jpg"
 ---
 
 > Gnomos não nascem do pé

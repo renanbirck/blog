@@ -4,7 +4,7 @@ date: 2022-05-15T20:12:36-03:00
 draft: false
 author: "Renan Birck Pinheiro"
 tags: ["retro-pc", "emulação"]
-feature_image: "/images/old-computer.jpg"
+image: "/images/old-computer.jpg"
 ---
 
 > Porque velho é o seu PC. -- [Retrópolis](https://www.retropolis.com.br/)

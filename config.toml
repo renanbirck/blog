@@ -1,22 +1,28 @@
 baseURL = "https://renanbirck.rocks/"
 title = "Tópicos Avançados em Temas Aleatórios"
-theme = "swiss-operator"
+theme = "PaperMod"
 author = "Renan Birck Pinheiro"
 copyright = "Copyright © 2022-2026 Renan Birck Pinheiro. Alguns direitos reservados."
-paginate = 4
+languageCode = "pt"
 
 [params]
+  description = "Apenas mais um cantinho nessa tal de internet."
+
+[params.social]
     facebook = "https://facebook.com/renanbirck"
     twitter = "https://twitter.com/birckrenan"
     github = "https://github.com/renanbirck"
     rss = "https://renanbirck.rocks/posts/index.xml" 
-    description = "Apenas mais um cantinho nessa tal de internet."
 
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']
+
+[params.theme]
+  accentBlue  = "#0055FF"   # Left-border accent / link color
+  accentRed   = "#E62B1E"   # Secondary accent
 
 [menu]
     [[menu.main]]
@@ -33,6 +39,11 @@ paginate = 4
     identifier = "rss"
     name = "Assine!"
     url = "/posts/index.xml"
+
+[languages]
+  [languages.pt]
+  languageName = "Português"
+  title = "Tópicos Avançados em Temas Aleatórios"
 
 [taxonomies]
 category = "categories"
