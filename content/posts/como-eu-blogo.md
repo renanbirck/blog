@@ -4,7 +4,8 @@ tags: ["blog"]
 date: 2022-04-14T21:58:22-03:00
 draft: false
 author: "Renan Birck Pinheiro"
-image: "/images/typewriter.jpg"
+cover:
+    image: "/images/typewriter.jpg"
 ---
 
 Como eu blogo?

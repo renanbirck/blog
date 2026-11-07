@@ -4,7 +4,9 @@ date: 2022-05-15T20:12:36-03:00
 draft: false
 author: "Renan Birck Pinheiro"
 tags: ["retro-pc", "emulação"]
-image: "/images/old-computer.jpg"
+cover: 
+    image: "/images/old-computer.jpg"
+    alt: "Computador antigo rodando o Windows 95."
 ---
 
 > Porque velho é o seu PC. -- [Retrópolis](https://www.retropolis.com.br/)
